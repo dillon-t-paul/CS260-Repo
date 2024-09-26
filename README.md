@@ -7,5 +7,14 @@ Have you ever been in a crowded event where you didn't seem to know anyone? That
 ### Design
 
 ### Key Features
-
+- Secure connection using https
+- Get to know you survey(s)
+- Ability to view other peoples entries
+- Page pairing you with others who have similar interests
 ### Use of Technology
+- **HTML** - Four total pages. Login Page, Survey Page, Page for students with similar responses, and a page for all responses and their statistics
+- **CSS** - Application is styled to match window size, has a complimenting color scheme, and centers focus on group chat and TA tips
+- **JavaScript** - Provides a checkbox survey that users can answer and save results. Will compare output with others and pair them with others with similar answers
+- **Database** - Stores all users names and their answers paired with their login info. Must be logged in to participate
+- **Web Services** - Retrieves users choices and logs their submissions (SaveScores)
+- **Websocket Data** - As each user submits their surveys, the data is broadcast to all users
