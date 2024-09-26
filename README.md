@@ -5,7 +5,7 @@ This application will serve as an opportunity for students and friends to get to
 ### Elevator Pitch
 Have you ever been in a crowded event where you didn't seem to know anyone? That awkward feeling of sitting around and waiting for someone to introduce themselves is one that we would all prefer to avoid. Through our application "Survey Center", our goal is to give everyone a voice. In a short couple of minutes, individuals can be introduced to others who share in interests, hobbies, and more. Connecting with others has never been made easier.
 ### Design
-![Design-File]https://github.com/dillon-t-paul/Startup-2/blob/main/Survey-Design.png
+![Design-File](https://github.com/dillon-t-paul/Startup-2/blob/main/Survey-Design.png)
 ### Key Features
 - Secure connection using https
 - Get to know you survey(s)
